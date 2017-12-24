@@ -140,3 +140,7 @@ html {
   color: #eee;
   border: 1px solid;
 }
+
+a:focus {
+  box-shadow: none;
+}
