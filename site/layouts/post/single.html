@@ -1,15 +1,22 @@
 {{ partial "head" . }}
 {{ partial "nav" . }}
-  <div class="mw6 center ph3 pv4">
-    <h1 class="f2 lh-title b mb3">{{.Title}}</h1>
-    <div class="flex justify-between grey-3">
-      <p>{{ .Date.Format "Mon, Jan 2, 2006" }}</p>
-      <p>Read in {{ .ReadingTime }} minutes</p>
-    </div>
-    <div class="cms mw6">
-      <p>{{ .Description }}</p>
-      {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
-      {{ .Content }}
+  <div class="ml7-m pb5 pt5">
+    <div class="mw6 ph4-ns ph3 center">
+      <h1 class="f2 lh-title b mb3 black">{{.Title}}</h1>
+      <div class="f6 moon-gray mb4">
+        <span class="mr3">{{ .Date.Format "Jan 2, 2006" }}</span>
+      </div>
+      <div class="cms mw6 serif f6 measure">
+        {{ if .Params.image }}<img src="{{ .Params.image }}" alt="{{ .Title }}" />{{ end }}
+        {{ .Content }}
+
+        <div class="mt4 sans-serif f6">
+          {{ partial "share-buttons" . }}
+        </div>
+
+        <div class="mt5">
+          {{ partial "disqus" . }}
+        </div>
+      </div>
     </div>
   </div>
-{{ partial "footer" . }}

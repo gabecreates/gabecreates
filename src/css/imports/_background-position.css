@@ -1,4 +1,4 @@
-.bg-center { 
+.bg-center {
   background-repeat: no-repeat;
   background-position: center center;
 }
@@ -21,6 +21,11 @@
 .bg-left {
   background-repeat: no-repeat;
   background-position: center left;
+}
+
+.bg-top-right {
+  background-repeat: no-repeat;
+  background-position: top right;
 }
 
 @media (--breakpoint-not-small) {

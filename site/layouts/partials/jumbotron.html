@@ -1,18 +1,16 @@
-<div class="pv5 pv6-l ph3 bg-center cover" style="background-image: url('{{.imageUrl}}')">
-  <div class="mw7 center ph3">
-    <div class="db mb3">
-      <div class="mw7 relative bg-fix-primary mb3">
-        <h1 class="f2 f1-l b di lh-title mb3 white mw6 bg-primary">
-          {{.title}}
-        </h1>
-      </div>
-      <div class="mw7 relative bg-fix-primary">
-        {{ if .subtitle }}
-        <p class="b f4 di lh-title mb3 white mw6 bg-primary">
-          {{.subtitle}}
-        </p>
-        {{ end }}
-      </div>
-    </div>
+<div class="bg-top-right cover relative" style="background-image: url('/img/home/jumbotron.jpg')">
+  <div class="mw6 ph5-l ph4-ns ph3 pv5 z-3 relative">
+    {{ range first 1 .quotes }}
+      <p class="f6 db mb3 gray mw6 measure">
+        "{{ .quote }}"
+      </p>
+      {{if .author}}
+      <div class="w3 dib bg-moon-gray" style="height: 1px; vertical-align: middle;"></div>
+      <span class="f6 ml3 silver">
+        {{.author}}
+      </span>
+      {{end}}
+    {{ end }}
   </div>
+  <div class="w-100 h4-ns h5 absolute bottom-0 z-2 contain" style="background-image: url('/img/home/white-fade.png')"></div>
 </div>

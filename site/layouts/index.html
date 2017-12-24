@@ -2,8 +2,7 @@
 
 {{ partial "nav" . }}
 
-{{ partial "jumbotron" (dict "imageUrl" "/img/home/jumbotron.jpg" "title" "Gabecreates" "subtitle" "Support sustainable farming while enjoying a cup") }}
-
+<div class="ml7-m">
+{{ partial "jumbotron" .Site.Data.quotes}}
 {{ partial "blog" . }}
-
-{{ partial "footer" . }}
+</div>
