@@ -1,7 +1,7 @@
 {{ partial "head" . }}
 {{ partial "nav" . }}
 
-<div class="ml7 pt5 ph6 pb5">
+<div class="mw6 ph4-ns ph3 pt5 center">
 	{{ range where .Data.Pages "Type" "post" }}
 			{{ .Render "li" }}
 	{{ end }}
