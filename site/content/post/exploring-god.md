@@ -1,6 +1,6 @@
 ---
 title: Exploring God
-date: 2017-12-17T23:03:08.740Z
+date: 2017-12-24T23:03:08.740Z
 description: "Where my seeking of God has taken me so far: God the highest as object, relation and action."
 series: ["God"]
 ---
