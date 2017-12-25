@@ -61,7 +61,7 @@ Now that we have the object and aim, a third question arises that pertains to pr
 
 I think scripture has revealed how we love: we live in truth. It is to live in a way where my own reality is communicated clearly - my motives, my aims, my vulnerabilities - so that I can keep growing by being corrected where I am mistaken, and encouraged where I am righteous. It is faith in being vulnerable and accepting what God wills with gratitude.
 
-For example to live in truth: if there is some enmity between myself and a friend, to live in truth is not to try forcing myself to keep being friendly. It is to gracefully tell the friend that I have enmity towards him/her with the hopes of having the issue resolved, but with the possibility of being rejected. This takes faith, but allows God to work in the situation.
+An example for living in truth: if there is some enmity between myself and a friend, I should not force myself to keep being friendly. It is to gracefully tell the friend that I have enmity towards him/her with the hopes of having the issue resolved, but with the possibility of being rejected. This takes faith, but allows God to work in the situation.
 
 Imagine if we all had the strength to live in truth - what would the world look like?
 
