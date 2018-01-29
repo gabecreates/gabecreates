@@ -9,6 +9,7 @@ description: >-
 > “But whoever practices the truth comes into the Light, so that it may be clearly seen that what he has done has been accomplished in God.”
 
 From the previous post, I concluded that living in truth is the highest service to the love of God by using the above passage. This post is an attempt to demonstrate how this conclusion can be made and what it looks like practically.
+
 <br>
 
 #### What is love?
