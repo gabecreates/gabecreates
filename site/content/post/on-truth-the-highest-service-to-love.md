@@ -58,3 +58,9 @@ To conclude, living in truth is the highest service to the love of God, and a pr
 * Be careful on how we speak
 
 And if we can do this, I believe every word we speak becomes potent and transformative - because God overflows with each word that comes from truth, which is given by the Holy Spirit.
+
+<br>
+Some questions:
+
+* With regards to external vs internal reality, and thinking that internal reality is of higher importance to the individual, I think that science - the pursuit of objective truths, serves wisdom - the pursuit of truths that dictate action. Thoughts?
+* Following the external vs internal reality line of thought, I think that both the anti-religious and the religious have fallen into a trap in pursuing the external realities as opposed to individuals' internal realities. Thoughts?
