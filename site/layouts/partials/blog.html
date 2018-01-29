@@ -1,5 +1,5 @@
 <div class="mw6 ph4-ns ph3 center">
-	{{ range where .Data.Pages "Type" "post" }}
+	{{ range (where .Data.Pages "Type" "post").Reverse }}
 			{{ .Render "li" }}
 	{{ end }}
 </div>
