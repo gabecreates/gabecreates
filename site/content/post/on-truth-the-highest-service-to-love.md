@@ -5,6 +5,7 @@ description: >-
   Living in truth is the highest service to the love of God. Why is that? What
   does that look like? I will attempt to demonstrate how this conclusion can be
   made and what it looks like practically.
+series: ["Truth"]
 ---
 > “But whoever practices the truth comes into the Light, so that it may be clearly seen that what he has done has been accomplished in God.”
 
