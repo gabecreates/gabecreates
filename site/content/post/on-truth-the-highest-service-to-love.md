@@ -62,6 +62,9 @@ Expanding on my example from above: If I were to go to my church community to te
 
 When speaking truth to others, how the truth is spoken matters. Is it done out of love? Is it done out of pride? Again, using my example from above: If I were to go to my church community to tell them that I don’t feel reading the Bible is as valuable as reading other books/articles for me, and speak about it in a way where I’m seeking guidance, that is most likely done out of love. If i speak about that in a way where I want demonstrate the deepness of my thoughts and challenge others if they have even thought about it that way, then that is most likely done out of pride. These affect the tone of what is said. Everyone can better love each other by speaking truth to each other constructively.
 
+<br>
+<br>
+
 To conclude, living in truth is the highest service to the love of God, and a practical guideline for living in truth is to:
 
 * Be careful to speak what is true, to ourselves and to others
