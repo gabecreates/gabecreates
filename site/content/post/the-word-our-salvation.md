@@ -1,6 +1,6 @@
 ---
 title: 'The Word, Our Salvation'
-date: 2019-01-02T00:37:24.647Z
+date: 2019-01-01T07:37:24.647Z
 description: Breaking down what it means for me that Jesus Christ Saves.
 ---
 For a long time, I have wrestled - and am still wrestling - with the meaning of the central Christian statement: Jesus Christ saves. Though I recognize I will never have complete understanding of this matter, the knowledge I currently have is enough for me to confidently share what I’ve learned, which also completely affects the way I view my life, where I can say that I believe in Jesus Christ with full conviction of my heart, mind and soul. The hope is not that you will come to believe in the way I have come to believe, but that in sharing my understanding, you may be encouraged to start or continue seeking God more deeply in your life to see what amazing stories He has in store for you.
@@ -32,7 +32,7 @@ This is why eternal life is so significant in the message of salvation, and repe
 
 Let’s re-frame the statement again: The Word rescues from death into eternal life. Now let’s revisit John 1 to get a clearer understanding of who the Word is.
 
-> “All things were made through him, and without him was not any thing made that was made.” 
+> “All things were made through him, and without him was not any thing made that was made.”
 
 The Word is the process that creates and structures reality, bringing order (patterns), out of chaos (potential). Think of a storybook. Without words on the pages, it is a potential of infinite stories, but there is no story. Once words are written on the pages, a story is realized, creating the universe where the story takes place.
 
@@ -65,7 +65,7 @@ Now that the statement Jesus Christ saves is (hopefully) clarified, on a more pr
 
 <br>
 
-So with all that said, I urge that every one of you will start or continue to choose life, despite how difficult your circumstances may be. Do not let darkness - the temptation of believing only in yourself, closing your mind to God  - overcome you, but instead have the hope of eternal life, which is found ultimately in the Word as revealed by the life, death and resurrection of Jesus Christ in the Bible, in conjunction with the Word that God reveals in your own life when you trust and seek Him. Believe with all your heart, soul and mind that Jesus Christ, the Word of God, saves. 
+So with all that said, I urge that every one of you will start or continue to choose life, despite how difficult your circumstances may be. Do not let darkness - the temptation of believing only in yourself, closing your mind to God  - overcome you, but instead have the hope of eternal life, which is found ultimately in the Word as revealed by the life, death and resurrection of Jesus Christ in the Bible, in conjunction with the Word that God reveals in your own life when you trust and seek Him. Believe with all your heart, soul and mind that Jesus Christ, the Word of God, saves.
 
 Through abiding in him with all faithfulness, I believe God will take you on an amazing adventure that will bring so much life and joy to everything around you that you can not even fathom. All glory be to God, hallelujah.
 
