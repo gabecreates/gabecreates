@@ -5,7 +5,11 @@ description: Breaking down what it means for me that Jesus Christ Saves.
 ---
 For a long time, I have wrestled - and am still wrestling - with the meaning of the central Christian statement: Jesus Christ saves. Though I recognize I will never have complete understanding of this matter, the knowledge I currently have is enough for me to confidently share what I’ve learned, which also completely affects the way I view my life, where I can say that I believe in Jesus Christ with full conviction of my heart, mind and soul. The hope is not that you will come to believe in the way I have come to believe, but that in sharing my understanding, you may be encouraged to start or continue seeking God more deeply in your life to see what amazing stories He has in store for you.
 
+<br>
+
 ---
+
+<br>
 
 To begin, let’s break down the statement with clear definitions. Firstly, who is Jesus Christ? And secondly, what does it mean to save?
 
@@ -38,7 +42,11 @@ Life comes from the Word, not only because the Word creates, but the Word sustai
 
 Finally, we have this statement: The process that eternally creates and structures reality rescues from death into eternal life.
 
+<br>
+
 ---
+
+<br>
 
 Now that the statement Jesus Christ saves is (hopefully) clarified, on a more practical note, I will quickly make points on the different layers of reality with which it applies to bring to awareness of how real and significant the the message of Christianity is. I won’t go into much detail, but I hope it is enough to encourage a greater desire to seek God.
 
@@ -51,7 +59,11 @@ Now that the statement Jesus Christ saves is (hopefully) clarified, on a more pr
 - The Word saves - historically - because through the work of Jesus Christ, we have been set on a path that has resulted in such immense prosperity and life in our modern age
 - The Word saves - relationally - because his command to love our neighbours, demonstrated by the life of Jesus Christ himself, reveals to us the potential beauty that such sacrificial love can have in community
 
+<br>
+
 ---
+
+<br>
 
 So with all that said, I urge that every one of you will start or continue to choose life, despite how difficult your circumstances may be. Do not let darkness - the temptation of believing only in yourself, closing your mind to God  - overcome you, but instead have the hope of eternal life, which is found ultimately in the Word as revealed by the life, death and resurrection of Jesus Christ in the Bible, in conjunction with the Word that God reveals in your own life when you trust and seek Him. Believe with all your heart, soul and mind that Jesus Christ, the Word of God, saves. 
 
