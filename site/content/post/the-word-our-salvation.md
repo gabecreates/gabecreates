@@ -56,8 +56,11 @@ Now that the statement Jesus Christ saves is (hopefully) clarified, on a more pr
 - The Word saves - narratively - because through Jesus Christ, the story of humanity has been redeemed from death to life, and we are invited to partake in this story of God's by modelling the story of redemption in our own lives
 - The Word saves - mentally - because if we abide in the Word, trusting in God, we are alleviated from the anxieties of depending on our own understanding, the mindset which leads to death
 - The Word saves - spiritually - because through Jesus Christ, we have been shown a way to no longer be slaves to principalities, but can live our own true lives that God has predestined us to by living in the Holy spirit
+- Or similarly, The Word saves - our identity - because through the Word, we discover ourselves and the story we're meant to live, the brokenness and the greatness. By living in faith and rejecting the identity prison of our own inadequate minds, we find fulfillment in the unfolding of our story the Word has for us.
 - The Word saves - historically - because through the work of Jesus Christ, we have been set on a path that has resulted in such immense prosperity and life in our modern age
-- The Word saves - relationally - because his command to love our neighbours, demonstrated by the life of Jesus Christ himself, reveals to us the potential beauty that such sacrificial love can have in community
+- The Word saves - relationally - because Jesus Christ's command to love our neighbours, demonstrated by his own life, reveals to us the potential beauty that such sacrificial love can have in community
+- The Word saves - morally - because it is the arbiter of what is right, and through his revelations to us in Jesus Christ and in our own lives, we can know the righteous path that participates in eternal life.
+
 
 <br>
 
@@ -65,8 +68,11 @@ Now that the statement Jesus Christ saves is (hopefully) clarified, on a more pr
 
 <br>
 
-So with all that said, I urge that every one of you will start or continue to choose life, despite how difficult your circumstances may be. Do not let darkness - the temptation of believing only in yourself, closing your mind to God  - overcome you, but instead have the hope of eternal life, which is found ultimately in the Word as revealed by the life, death and resurrection of Jesus Christ in the Bible, in conjunction with the Word that God reveals in your own life when you trust and seek Him. Believe with all your heart, soul and mind that Jesus Christ, the Word of God, saves.
+So with all that said, I urge that every one of you will start or continue to choose life, despite how difficult your circumstances may be. Do not let darkness - the temptation of believing only in yourself, closing your mind to God  - overcome you, but instead have the hope of eternal life, which is found ultimately in the Word as revealed by the life, death and resurrection of Jesus Christ in the Bible along with the Word that God reveals in your own life when you trust and seek Him. Believe with all your heart, soul and mind that Jesus Christ, the Word of God, saves. 
 
-Through abiding in him with all faithfulness, I believe God will take you on an amazing adventure that will bring so much life and joy to everything around you that you can not even fathom. All glory be to God, hallelujah.
+Through abiding in him with all faithfulness, I believe God will lead you on an amazing journey that will radiate so much life and joy wherever you go that there is no other way to respond but to worship. All glory be to God, hallelujah.
 
-*If there is any feedback, critiques, or complements you want to send my way, I invite you to email me at gabecreates@gmail.com. Let’s continue to further seek God together.
+<br>
+<br>
+
+**If there is any feedback, critiques, or complements you want to send my way, I invite you to email me at gabecreates@gmail.com. Let’s continue to further seek God together.*
