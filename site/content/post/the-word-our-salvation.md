@@ -38,7 +38,7 @@ The Word is the process that creates and structures reality, bringing order (pat
 
 > “In him was life, and the life was the light of men. The light shines in the darkness, and the darkness has not overcome it.”
 
-Life comes from the Word, not only because the Word creates, but the Word sustains the process of creation, eternally. Life sustains the process of creation, and this sustaining of creation is the light (purpose) of men - the one that illuminates the way forward for humanity.
+Life comes from the Word, not only because the Word creates, but the Word sustains the process of creation, eternally. Life sustains the process of creation, and this sustaining of creation is the light of men - the one that illuminates the way forward for humanity.
 
 Finally, we have this statement: The process that eternally creates and structures reality rescues from death into eternal life.
 
