@@ -62,7 +62,13 @@ Faith ultimately hopes for eternal life and is assured by Jesus Christ. It is no
 
 
 
-Unlike the first part that describes the orientation of faith, this part describes how unseen things call us to action based on what is hoped for with assurance. To help relate to how we might have these convictions from things unseen, here are some examples: thoughts that pop into our head, an intuition, feedback from people, change in our environment. From a Christian perspective with the hope of eternal life, the conviction of things unseen is our sensitivity towards God the Father, the Son and the Holy Spirit, through any of the examples previously listed and more. God will call us to action in our lives. The calling itself is not something we usually anticipate, and to determine the results of following through with the conviction is not something we can sense clearly. Moreso, we will probably project a negative outlook because when God calls us, it is always beyond our control and that to obey will demand trust in Him. 
+Unlike the first part that describes the orientation of faith, this part describes how unseen things call us to action based on what is hoped for with assurance. To help relate to how we might have these convictions from things unseen, here are some examples to consider: 
+- Thoughts that pop into our head
+- Our intuitions
+- Feedback from people
+- Change in our environment.
+
+From a Christian perspective with the hope of eternal life, the conviction of things unseen is our sensitivity towards God the Father, the Son and the Holy Spirit, through any of the examples previously listed and more. God will call us to action in our lives. The calling itself is not something we usually anticipate, and to determine the results of following through with the conviction is not something we can sense clearly. Moreso, we will probably project a negative outlook because when God calls us, it is always beyond our control and that to obey will demand trust in Him. 
 
 God pushes us to take risks, and to add to the difficulty, the responsibility of deciding to pursue His call will fall on ourselves, so it is no wonder that faith is difficult. The reason such drastic risk is pursued is because the vision of life revealed from the assurance of Jesus Christ is so powerful, that we are moved to surrender all to him, the Word of God that created the universe. From this assurance we see the commendable faith of the ones described in Hebrews 11.
 
