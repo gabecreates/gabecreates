@@ -5,7 +5,7 @@ description: >-
   An exploration of faith and love through the major life decisions that is
   marriage and having children.
 ---
-This post will be an exploration on building a family and how it can be a key experience for faith and love. I understand that some people are not called towards building a family, but I believe for most, God will call us to build a family through marriage and having children. I myself only have had a short experience of marriage so far, so most of what is written is from much thinking and reflecting and not from a greater kind of knowledge that experience provides. So I urge you, the reader, to treat this message as a friend openly expressing his thoughts that *may* help you in understanding this subject of family, marriage, love and faith.
+This post will be an exploration on building a family and how it can be a key experience for faith and love. I understand that some people are not called towards building a family, but I believe for most, God will call us to build a family through marriage and having children. I myself only have had a short experience of marriage so far, so most of what is written is from much thinking and reflecting and not from a greater kind of knowledge that experience provides. So I urge you, the reader, to treat this message as a friend openly expressing his opinions that *may* help you in understanding this subject of family, marriage, love and faith.
 
 <br>
 
