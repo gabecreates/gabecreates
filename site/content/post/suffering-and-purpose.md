@@ -84,4 +84,6 @@ To summarize how participating in our story of love addresses the problem of lif
 
 ### End Part One
 
-And so, with all this said, I hope you can experience the freedom of living in Christ, participating in the story of love God has intended for you, bringing you much peace nd joy bdespite the suffering you may face ecause you are fulfilling your purpose. May all of creation be glorified through the wonder that is the workmanship of God. Amen.
+And so, with all this said, I hope you can experience the freedom of living in Christ, participating in the story of love God has intended for you, bringing you much peace and joy despite the suffering you may face cause you are fulfilling your purpose. May all of creation be glorified through the wonder that is the workmanship of God. Amen.
+
+nd joy despite the suffering you may face ecause you are fulfilling your purpose. May all of creation be glorified through the wonder that is the workmanship of God. Amen.
